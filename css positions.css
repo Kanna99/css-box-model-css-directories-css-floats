@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.static {
+  position: static;
+  border: 3px solid #73AD21;
+  }
+  div.relative {
+  position:relative;
+  border:3px solid #73AD21;
+  }
+  div.absolute {
+  position:Absolute;
+  border:3px solid #73AD21;
+  }
+  div.fixed {
+  position:fixed;
+  border:3px solid #73AD21;
+  }
+  div.sticky {
+  position:sticky;
+  border:3px solid #73AD21;
+  
+}
+</style>
+</head>
+<body>
+
+<h2>position: static;</h2>
+<h2>position:relative;</h2>
+<h2>position:Absolute;</h2>
+<h2>position:fixed;</h2>
+<h2>position:sticky;</h2>
+<p>·
+https://www.food.com/</p>
+<p>·
+https://www.food.com/</p>
+<p>·
+https://www.food.com/</p>
+<p>·
+https://www.food.com/</p>
+<p>·
+https://www.food.com/</p>
+
+<div class="static">
+dosa:static;
+</div>
+<div class="relative">
+biryani:relative;
+</div>
+<div class="absolute">
+idly:absolute;
+</div>
+<div class="fixed">
+puri:fixed;
+</div>
+<div class="sticky">
+chapathi:sticky;
+</div>
+
+
+</body>
+</html>
+
+
